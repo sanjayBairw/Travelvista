@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Primary & Accent -->
+    <color name="primary">#6750A4</color> <!-- Deep Royal Violet -->
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#EADDFF</color>
+    <color name="on_primary_container">#21005D</color>
+
+    <color name="accent">#9B87F5</color> <!-- Soft Vibrant Lavender / Iris -->
+    <color name="secondary">#9B87F5</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="secondary_container">#EDE9FE</color>
+    <color name="on_secondary_container">#3B0764</color>
+
+    <!-- Brand Tertiary / Nature & Status -->
+    <color name="tertiary">#0D9488</color> <!-- Deep Teal for balanced contrast -->
+    <color name="on_tertiary">#FFFFFF</color>
+    <color name="tertiary_container">#CCFBF1</color>
+    <color name="on_tertiary_container">#115E59</color>
+
+    <!-- Neutral Background & Surface -->
+    <color name="background">#F7F7FA</color> <!-- Crisp Ultra-Clean Slate Tint -->
+    <color name="on_background">#20202A</color> <!-- Text Primary -->
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#20202A</color> <!-- Text Primary -->
+    <color name="surface_variant">#F0F0F6</color>
+    <color name="on_surface_variant">#777784</color> <!-- Text Secondary -->
+    <color name="outline">#E6E6EE</color>
+    <color name="outline_variant">#D8D8E4</color>
+
+    <!-- Status & Rating -->
+    <color name="gold_star">#F59E0B</color>
+    <color name="heart_red">#F43F5E</color> <!-- Rose Red -->
+    <color name="heart_red_bg">#FFE4E6</color>
+    <color name="scrim_dark">#D9100E17</color>
+    <color name="scrim_medium">#80000000</color>
+    <color name="scrim_light">#33000000</color>
+    <color name="white_90">#E6FFFFFF</color>
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="glass_card">#4D000000</color>
+    <color name="glass_card_stroke">#33FFFFFF</color>
+
+    <!-- Shimmer & Placeholder -->
+    <color name="shimmer_color">#EAEAF2</color>
+    <color name="image_placeholder">#EAEAF2</color>
+</resources>

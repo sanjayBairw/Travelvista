@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="300dp"
+    android:viewportWidth="400"
+    android:viewportHeight="300">
+    <!-- Twilight Violet Sky -->
+    <path
+        android:fillColor="#EADDFF"
+        android:pathData="M0,0h400v300h-400z" />
+    <!-- Golden Lavender Sun -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M200,120m-32,0a32,32 0 1,0 64,0a32,32 0 1,0 -64,0" />
+    <!-- Distant Mountains -->
+    <path
+        android:fillColor="#C4B5FD"
+        android:pathData="M80,300 L180,150 L260,240 L340,160 L440,300 Z" />
+    <!-- Midground Mountains -->
+    <path
+        android:fillColor="#9B87F5"
+        android:pathData="M-20,300 L100,180 L200,280 L310,170 L420,300 Z" />
+    <!-- Foreground Deep Violet Ridge -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M0,250 L140,210 L280,260 L400,220 L400,300 L0,300 Z" />
+</vector>

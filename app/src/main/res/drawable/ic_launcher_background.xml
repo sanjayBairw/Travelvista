@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Premium Deep Travel Gradient: Royal Violet to Rich Indigo -->
+    <path
+        android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:angle="135"
+                android:startColor="#7C3AED"
+                android:centerColor="#5B21B6"
+                android:endColor="#3B0764"
+                android:type="linear" />
+        </aapt:attr>
+    </path>
+
+    <!-- Subtle Radial Horizon Glow -->
+    <path
+        android:pathData="M54,54m-48,0a48,48 0 1,1 96,0a48,48 0 1,1 -96,0">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:centerX="54"
+                android:centerY="42"
+                android:gradientRadius="48"
+                android:startColor="#30FFFFFF"
+                android:endColor="#00FFFFFF"
+                android:type="radial" />
+        </aapt:attr>
+    </path>
+
+    <!-- Subtle Geometric Map Grid Latitudes -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#14FFFFFF"
+        android:strokeWidth="1.2"
+        android:pathData="M18,54a36,15 0 1,0 72,0a36,15 0 1,0 -72,0" />
+
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#14FFFFFF"
+        android:strokeWidth="1.2"
+        android:pathData="M54,18a15,36 0 1,0 0,72a15,36 0 1,0 0,-72" />
+
+    <!-- Subtle Outer Compass Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#1AFFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M54,54m-36,0a36,36 0 1,1 72,0a36,36 0 1,1 -72,0" />
+</vector>

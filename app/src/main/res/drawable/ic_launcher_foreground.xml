@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Subtle Globe Outline in Safe Zone (Radius 20 around (48, 56)) -->
+    <path
+        android:fillColor="#15FFFFFF"
+        android:strokeColor="#35FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M48,56m-20,0a20,20 0 1,1 40,0a20,20 0 1,1 -40,0" />
+
+    <!-- Globe Meridian Line -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#20FFFFFF"
+        android:strokeWidth="1.2"
+        android:pathData="M48,36a8,20 0 0,0 0,40" />
+
+    <!-- Globe Parallel Equator Line -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#20FFFFFF"
+        android:strokeWidth="1.2"
+        android:pathData="M28,56a20,8 0 0,0 40,0" />
+
+    <!-- Flight Contrail Shadow (Soft Depth) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#25000000"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M32,73 C34,58 44,46 60,42" />
+
+    <!-- Vibrant Outer Flight Contrail Swoosh -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#9B87F5"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:pathData="M31,72 C33,57 43,45 59,41" />
+
+    <!-- Inner Highlight Swoosh -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#E9D5FF"
+        android:strokeWidth="1.4"
+        android:strokeLineCap="round"
+        android:pathData="M32,71.5 C34,57.5 43.5,46 58,42" />
+
+    <!-- Destination Pin Drop Shadow -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M32,62 C29.8,62 28,63.8 28,66 C28,69.2 32,74.5 32,74.5 C32,74.5 36,69.2 36,66 C36,63.8 34.2,62 32,62 Z" />
+
+    <!-- Destination Pin Body (Vibrant Golden Amber) -->
+    <path
+        android:fillColor="#FFB703"
+        android:pathData="M31,60.5 C28.8,60.5 27,62.3 27,64.5 C27,67.7 31,73 31,73 C31,73 35,67.7 35,64.5 C35,62.3 33.2,60.5 31,60.5 Z" />
+
+    <!-- Pin Core Dot -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M31,64.5m-1.5,0a1.5,1.5 0 1,1 3,0a1.5,1.5 0 1,1 -3,0" />
+
+    <!-- 4-Point Adventure Star / Sparkle at Destination Horizon -->
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M73,28 L74.2,30.8 L77,32 L74.2,33.2 L73,36 L71.8,33.2 L69,32 L71.8,30.8 Z" />
+
+    <!-- Modern Airplane Drop Shadow -->
+    <group
+        android:pivotX="12"
+        android:pivotY="12"
+        android:rotation="45"
+        android:scaleX="2.0"
+        android:scaleY="2.0"
+        android:translateX="46.5"
+        android:translateY="26.5">
+        <path
+            android:fillColor="#33000000"
+            android:pathData="M21,16v-2l-8-5V3.5C13,2.67 12.33,2 11.5,2S10,2.67 10,3.5V9l-8,5v2l8-2.5V19l-2,1.5V22l3.5-1 3.5,1v-1.5L13,19v-5.5L21,16z" />
+    </group>
+
+    <!-- Modern Passenger Jet Aircraft (Crisp White Aerodynamic Silhouette) -->
+    <group
+        android:pivotX="12"
+        android:pivotY="12"
+        android:rotation="45"
+        android:scaleX="2.0"
+        android:scaleY="2.0"
+        android:translateX="45"
+        android:translateY="25">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M21,16v-2l-8-5V3.5C13,2.67 12.33,2 11.5,2S10,2.67 10,3.5V9l-8,5v2l8-2.5V19l-2,1.5V22l3.5-1 3.5,1v-1.5L13,19v-5.5L21,16z" />
+    </group>
+
+</vector>

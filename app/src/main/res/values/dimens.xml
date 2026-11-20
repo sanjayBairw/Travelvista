@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing_xxsmall">2dp</dimen>
+    <dimen name="spacing_xsmall">4dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+    <dimen name="spacing_xlarge">32dp</dimen>
+
+    <!-- Card Corners per design requirement -->
+    <dimen name="card_corner_radius_small">12dp</dimen>
+    <dimen name="card_corner_radius">20dp</dimen>
+    <dimen name="card_corner_radius_large">24dp</dimen>
+    <dimen name="card_corner_radius_pill">100dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="card_elevation_featured">4dp</dimen>
+
+    <!-- Photography Dimensions -->
+    <dimen name="featured_card_height">260dp</dimen>
+    <dimen name="featured_card_width">320dp</dimen>
+    <dimen name="popular_card_width">210dp</dimen>
+    <dimen name="popular_card_height">265dp</dimen>
+    <dimen name="listing_item_height">130dp</dimen>
+    <dimen name="detail_image_height">360dp</dimen>
+
+    <!-- Badges & Padding -->
+    <dimen name="badge_padding_horizontal">12dp</dimen>
+    <dimen name="badge_padding_vertical">6dp</dimen>
+</resources>

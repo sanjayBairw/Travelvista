@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">TravelVista</string>
+    <string name="tagline">Explore the World in Style</string>
+
+    <!-- Navigation -->
+    <string name="nav_explore">Explore</string>
+    <string name="nav_destinations">Search</string>
+    <string name="nav_trips">Trips</string>
+    <string name="nav_favorites">Saved</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Explore Screen -->
+    <string name="greeting_badge">✨ Discover the World</string>
+    <string name="greeting_title">Where would you</string>
+    <string name="greeting_highlight">like to go?</string>
+    <string name="search_hint">Search destinations, cities, countries...</string>
+    <string name="section_categories">Explore Categories</string>
+    <string name="section_featured">Featured Destinations</string>
+    <string name="section_popular">Popular Destinations</string>
+    <string name="section_trending">Trending Now</string>
+    <string name="view_all">View all</string>
+
+    <!-- Categories -->
+    <string name="category_all">All</string>
+    <string name="category_mountains">Mountains</string>
+    <string name="category_beaches">Beaches</string>
+    <string name="category_cities">Cities</string>
+    <string name="category_nature">Nature</string>
+    <string name="category_historical">Historical Places</string>
+
+    <!-- Listing Screen -->
+    <string name="destinations_title">All Destinations</string>
+    <string name="destinations_subtitle">Find your next dream journey</string>
+    <string name="filter_all">All</string>
+    <string name="sort_by">Sort by: %1$s</string>
+    <string name="sort_rating">Top Rated</string>
+    <string name="sort_popular">Most Popular</string>
+    <string name="sort_price">Budget Friendly</string>
+    <string name="results_count">%1$d destinations found</string>
+
+    <!-- Detail Screen -->
+    <string name="overview">About Destination</string>
+    <string name="highlights">Highlights</string>
+    <string name="travel_tips">Travel Tips</string>
+    <string name="best_time_to_visit">Best Time to Visit</string>
+    <string name="price_per_day">Est. Cost / Day</string>
+    <string name="plan_trip">Plan Your Trip</string>
+    <string name="trip_booked">Trip itinerary saved for %1$s! Ready for adventure.</string>
+    <string name="share_text">Check out %1$s in %2$s! %3$s\n\nDiscovered via TravelVista App.</string>
+    <string name="share_title">Share Destination</string>
+    <string name="photo_attribution_title">Image License &amp; Attribution</string>
+    <string name="image_credits_title">Photo Attribution &amp; Credits</string>
+    <string name="added_to_favorites">Added to favorites</string>
+    <string name="removed_from_favorites">Removed from favorites</string>
+
+    <!-- Favorites Screen -->
+    <string name="favorites_title">Saved Places</string>
+    <string name="favorites_subtitle">Your curated travel wishlist</string>
+    <string name="favorites_empty_title">No favorites yet</string>
+    <string name="favorites_empty_desc">Explore breathtaking destinations around the globe and tap the heart icon to build your dream travel wishlist.</string>
+    <string name="btn_explore_now">Explore Destinations</string>
+    <string name="undo">Undo</string>
+
+    <!-- States & Errors -->
+    <string name="loading">Loading destinations…</string>
+    <string name="error_loading">Could not load destinations</string>
+    <string name="error_check_connection">Please check your network connection and try again.</string>
+    <string name="btn_retry">Try Again</string>
+    <string name="no_results_title">No destinations found</string>
+    <string name="no_results_desc">We couldn\'t find any destinations matching your search. Try searching for another city, country, or category.</string>
+
+    <!-- Accessibility / Actions -->
+    <string name="cd_favorite">Toggle Favorite</string>
+    <string name="cd_share">Share Destination</string>
+    <string name="cd_back">Go Back</string>
+    <string name="cd_destination_image">Destination Photo</string>
+    <string name="cd_clear_search">Clear Search</string>
+
+    <!-- Global Travel Platform Strings -->
+    <string name="section_recently_viewed">Recently Viewed</string>
+    <string name="quick_map">World Map</string>
+    <string name="quick_hotels">Hotels</string>
+    <string name="quick_flights">Flights</string>
+    <string name="quick_activities">Tours</string>
+    <string name="search_history_label">Recent searches</string>
+    <string name="clear_history">Clear</string>
+    <string name="region_all">All Regions</string>
+    <string name="map_view">Map</string>
+    <string name="list_view">List</string>
+
+    <!-- Global Destination Details -->
+    <string name="live_weather_title">Live Local Weather</string>
+    <string name="country_essentials_title">Country &amp; Travel Essentials</string>
+    <string name="nearby_attractions_title">Nearby Attractions</string>
+    <string name="book_travel_title">Compare &amp; Book via Official Partners</string>
+    <string name="provider_booking_notice">Live rates, availability, taxes &amp; checkout are verified on the official partner website. TravelVista never fabricates prices or stores payment cards.</string>
+    <string name="open_on_map">View on Map</string>
+    <string name="open_directions">Directions</string>
+    <string name="data_sources_title">Data Sources &amp; Attribution</string>
+
+    <!-- Trips & Booking Hub -->
+    <string name="trips_title">Trips &amp; Booking</string>
+    <string name="trips_subtitle">Plan offline itineraries or search official travel partners</string>
+    <string name="tab_my_trips">My Trips</string>
+    <string name="tab_hotels">Hotels</string>
+    <string name="tab_flights">Flights</string>
+    <string name="tab_activities">Activities</string>
+    <string name="create_trip">New Trip</string>
+    <string name="no_trips_title">No trips planned yet</string>
+    <string name="no_trips_desc">Create a custom trip with dates, budget, and day-wise itinerary saved offline on your device.</string>
+
+    <!-- Map Discovery -->
+    <string name="map_title">Worldwide Map Discovery</string>
+    <string name="map_search_hint">Search any city, island, landmark worldwide...</string>
+
+    <!-- Profile & Global Settings -->
+    <string name="profile_title">Traveler Profile</string>
+    <string name="profile_subtitle">Preferences, currency &amp; provider integrations</string>
+    <string name="local_profile_badge">Local Device Profile (No Cloud Account Required)</string>
+    <string name="currency_setting">Preferred Currency</string>
+    <string name="units_setting">Distance &amp; Temperature Units</string>
+    <string name="theme_setting">App Appearance</string>
+    <string name="provider_status_title">API &amp; Booking Provider Status</string>
+
+    <!-- Famous Food & Most Visited Places -->
+    <string name="famous_food_title">Famous &amp; Favorite Local Food</string>
+    <string name="famous_food_subtitle">Must-try local delicacies, culinary heritage &amp; staple dishes</string>
+    <string name="most_visited_places_title">Most Visited Places &amp; Top Sights</string>
+    <string name="most_visited_places_subtitle">Iconic landmarks, popular attractions &amp; must-see sights</string>
+    <string name="badge_must_try">Must-Try</string>
+    <string name="badge_top_visited">Top Visited</string>
+    <string name="dining_tips_title">Local Food &amp; Dining Tips</string>
+</resources>

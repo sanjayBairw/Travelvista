@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/exploreFragment"
+        android:icon="@drawable/ic_explore"
+        android:title="@string/nav_explore" />
+
+    <item
+        android:id="@+id/destinationsFragment"
+        android:icon="@drawable/ic_search"
+        android:title="@string/nav_destinations" />
+
+    <item
+        android:id="@+id/tripsFragment"
+        android:icon="@drawable/ic_trips"
+        android:title="@string/nav_trips" />
+
+    <item
+        android:id="@+id/favoritesFragment"
+        android:icon="@drawable/ic_favorites"
+        android:title="@string/nav_favorites" />
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/nav_profile" />
+</menu>

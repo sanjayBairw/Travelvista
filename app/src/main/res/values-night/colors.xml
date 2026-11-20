@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Primary & Accent -->
+    <color name="primary">#D0BCFF</color> <!-- Light Royal Lavender -->
+    <color name="on_primary">#381E72</color>
+    <color name="primary_container">#4F378B</color>
+    <color name="on_primary_container">#EADDFF</color>
+
+    <color name="accent">#9B87F5</color> <!-- Soft Vibrant Lavender / Iris -->
+    <color name="secondary">#9B87F5</color>
+    <color name="on_secondary">#2E1065</color>
+    <color name="secondary_container">#4C1D95</color>
+    <color name="on_secondary_container">#EDE9FE</color>
+
+    <!-- Brand Tertiary / Nature & Status -->
+    <color name="tertiary">#2DD4BF</color>
+    <color name="on_tertiary">#042F2E</color>
+    <color name="tertiary_container">#115E59</color>
+    <color name="on_tertiary_container">#CCFBF1</color>
+
+    <!-- Neutral Background & Surface -->
+    <color name="background">#121218</color> <!-- Deep Obsidian Violet -->
+    <color name="on_background">#F5F5FA</color> <!-- Crisp White Tint -->
+    <color name="surface">#202027</color> <!-- Dark Slate Plum -->
+    <color name="on_surface">#F5F5FA</color>
+    <color name="surface_variant">#2A2A35</color>
+    <color name="on_surface_variant">#9D9DAE</color> <!-- Secondary Text -->
+    <color name="outline">#353544</color>
+    <color name="outline_variant">#262633</color>
+
+    <!-- Status & Rating -->
+    <color name="gold_star">#FBBF24</color>
+    <color name="heart_red">#FB7185</color>
+    <color name="heart_red_bg">#4C0519</color>
+    <color name="scrim_dark">#E60C0C12</color>
+    <color name="scrim_medium">#99000000</color>
+    <color name="scrim_light">#4D000000</color>
+    <color name="white_90">#E6FFFFFF</color>
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="glass_card">#801A1A22</color>
+    <color name="glass_card_stroke">#33FFFFFF</color>
+
+    <!-- Shimmer & Placeholder -->
+    <color name="shimmer_color">#262633</color>
+    <color name="image_placeholder">#1A1A22</color>
+</resources>
